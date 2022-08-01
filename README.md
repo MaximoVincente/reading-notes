@@ -8,7 +8,7 @@
 
 *This is my git hub link:* [My GitHub Portfolio](https://github.com/MaximoVincente/).
 
-The background color be `#ffffff`
+`#8FBC8F`
 
 
 
