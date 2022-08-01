@@ -13,3 +13,4 @@
 ![Mindset](https://user-images.githubusercontent.com/103771906/182227987-20cfba6c-b11a-467b-82b5-7864a624e54c.jpeg)
 
 
+- ![#8FBC8F](https://via.placeholder.com/15/c5f015/c5f015.png) `#8FBC8F`
