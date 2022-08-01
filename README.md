@@ -6,7 +6,7 @@
 - Being curious 
 - Understanding that you do not know everything, "yet"!
 
-*This is my git hub link:* [My GitHub Portfolio] (https://github.com/MaximoVincente).
+*This is my git hub link:* [My GitHub Portfolio](https://github.com/MaximoVincente/).
 
 The background color be `#ffffff`
 
