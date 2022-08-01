@@ -1,5 +1,7 @@
 ## Growth Mindset
 
+![Mindset](https://user-images.githubusercontent.com/103771906/182227987-20cfba6c-b11a-467b-82b5-7864a624e54c.jpeg)
+
 > ***Growth Mindset for me is the mindset of expecting that there will be challenges on what you are trying to learn or accomplish, but understanding that each challenge can turn in to knowledge.*** 
 
 *I believe that growth mindset can be accomplished by:
@@ -9,7 +11,7 @@
 - Understanding that you do not know everything, "yet"!*
 
 *To learn more about The Growth Mindset, visit* [The Growth Mindset Competency](https://codefellows.github.io/common_curriculum/career_coaching/common/professional-competencies) 
-![Mindset](https://user-images.githubusercontent.com/103771906/182227987-20cfba6c-b11a-467b-82b5-7864a624e54c.jpeg)
+
 
 
 
