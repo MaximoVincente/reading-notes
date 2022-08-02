@@ -1,4 +1,4 @@
-# Growth Mindset 🧠
+   #        Growth Mindset 🧠 and Reading Notes 📖 by "Maximo Vincente"
 
 ![Mindset](https://user-images.githubusercontent.com/103771906/182227987-20cfba6c-b11a-467b-82b5-7864a624e54c.jpeg)
 
@@ -6,7 +6,7 @@
 
 *I believe that growth mindset can be accomplished by:
 
-- Remembering that it is just a temporary hurdle, and I will ~~not~~ see the positive outcome at the end!*
+- Remembering that it is just a temporary hurdle, and I will see the positive outcome at the end!*
 - Being curious*
 - Understanding that you do not know everything, "yet"!*
 
