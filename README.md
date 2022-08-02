@@ -26,17 +26,33 @@ I believe that growth mindset can be accomplished by:
 
 ### Reading Notes 📖
 
-- Use # For Header. Additionally, If you add another # the header becomes a smaller font.
+For Markdown Notes:
+
+- Use **#** For Header. Additionally, If you add another # the header becomes a smaller font.
 - Use > and a space for quotes.
 - Use - and a space for unordered list.
-- Use the number for ordered lists (i.e., 1. "space"), and once you go to the next line, the following number (2), will automatically populate. 
+- Use the number for ordered lists **(i.e., 1. "space")**, and once you go to the next line, the following number (2), will automatically populate. 
 - Use * for italic
 - Use *** for bold and italic
-- To link a Url use [] for alt text and () for the URL with no space in between alt text [] and URL().
+- To link a Url use **[]** for alt text and **()** for the URL with no space in between alt text **[]** and URL**()**.
 - To add an image, you can drag and drop the image file. 
-- To add an emoji, use colon, type name of the emoji, and the close it with another colon.    E.g, :insert emoji name here: 
-   - Note: Once you type the : and the first letter, you will get a list of emojis to scroll through. 
+- To add an emoji, use colon, type name of the emoji, and the close it with another colon. **E.g, :insert emoji name here:**
+   - **Note:** Once you type the : and the first letter, you will get a list of emojis to scroll through. 
    - Here's an [Emoji Cheat Cheat](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
+For The Coder's Computer Notes:
+
+- **pwd:** Will tell me what directory I am currently in.
+- **ls:** Will list the files of the current directory.
+- **cd:** Will change the directory.
+- **mkdir:** Will make a directory.
+   - To make a file with a space in between, type the name of the file in single quote, **e.g., 'code 102'**.
+   - **Note:** It is best practice to add an underscore for space instead, **e.g., code_102**. 
+- **clear:** Will clear the terminal.
+- **Command Key + q:** Will quit terminal.
+- **touch:** Will create files.
+- **cd..:** Will go back one directory.
+   - **Note:** To go back another directory just add another **dot "."  (E.g., Go back one directory: cd.. Go back two directories: cd...)**
+- **Tree:** To view tree 
 
 
