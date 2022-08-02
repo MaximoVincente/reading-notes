@@ -56,7 +56,6 @@ I believe that growth mindset can be accomplished by:
 - **Tree:** To view tree 
 - **code .:** Open VS Code
 - Install homebrew on terminal
-- 
 - Make sure to install the following commands in your terminal:
    - code
    - git
