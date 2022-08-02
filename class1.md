@@ -1,4 +1,4 @@
-# Growth Mindset 🧠 and "Markdown" Reading Notes 📖  by "Maximo Vincente"
+# Growth Mindset 🧠 and "Markdown" Reading Notes 📖
 
 ## Growth Mindset 🧠
 
