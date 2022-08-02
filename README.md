@@ -9,9 +9,9 @@
 
 I believe that growth mindset can be accomplished by:
 
-- Remembering that it is just a temporary hurdle, and I will see the positive outcome at the end!*
-- Being curious*
-- Understanding that you do not know everything, "yet"!*
+- Remembering that it is just a temporary hurdle, and I will see the positive outcome at the end!
+- Being curious
+- Understanding that you do not know everything, "yet"!
 
 *To learn more about "The Growth Mindset"* [Click here](https://codefellows.github.io/common_curriculum/career_coaching/common/professional-competencies) 
 
