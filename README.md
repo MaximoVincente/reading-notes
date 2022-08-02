@@ -49,7 +49,7 @@ I believe that growth mindset can be accomplished by:
    - To make a file with a space in between, type the name of the file in single quote, **e.g.,** `'code 102`.
    - **Note:** It is best practice to add an underscore for space instead, **e.g.,** `code_102`. 
 - `clear`: Will clear the terminal.
--`*Command Key + q`: Will quit terminal.
+- `Command Key + q`: Will quit terminal.
 - `touch`: Will create files.
 - `cd..`: Will go back one directory.
    - **Note:** To go back another directory just add another dot `.`  (E.g., Go back one directory: `cd..` Go back two directories: `cd...`, etc.)
