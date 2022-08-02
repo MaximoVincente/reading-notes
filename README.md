@@ -37,7 +37,7 @@ I believe that growth mindset can be accomplished by:
 - Use *** for bold and italic
 - To link a Url use [] for alt text and () for the URL with no space inbetween alt text [] and URL().
 - To add an image, you can drag and drop the image file. 
-- To add an emoji, use colon, type name of the emoji, and the close it with another colon. E.g, :"insert emoji name here": 
+- To add an emoji, use colon, type name of the emoji, and the close it with another colon.    E.g, :"insert emoji name here": 
    - Note: Once you type the : and the first letter, you will get a list of emojis to scroll through. 
    - Here's an [Emoji Cheat Cheat](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
