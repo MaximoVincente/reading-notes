@@ -66,7 +66,8 @@ I believe that growth mindset can be accomplished by:
    - `eslint`
    - `tree`   
 - Using VS Code is more interactive, and less room for error. Prior to using VS Code, ensure to have all the appropriate extensions.
-   - VS Extensions include: liveserver
+   - VS Extensions include: 
+      - liveserver
       - ESLint
       - markdownlint
       - editorconfig
