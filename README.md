@@ -15,7 +15,7 @@
 
 
 
-## About Maximo VincenteMejia  :technologist: 
+## About Maximo VincenteMejia  :technologist:
 ![IMG_7346](https://user-images.githubusercontent.com/103771906/182265368-b468a297-35e7-43de-800a-8a25b149c09a.jpg)
 
 
