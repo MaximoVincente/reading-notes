@@ -1,4 +1,4 @@
-# Growth Mindset 🧠 and Reading Notes 📖 by "Maximo Vincente"
+# Growth Mindset 🧠 and Reading Notes 📖  by "Maximo Vincente"
 
 ![Mindset](https://user-images.githubusercontent.com/103771906/182227987-20cfba6c-b11a-467b-82b5-7864a624e54c.jpeg)
 
