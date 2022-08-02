@@ -55,7 +55,24 @@ I believe that growth mindset can be accomplished by:
    - **Note:** To go back another directory just add another **dot "."  (E.g., Go back one directory: cd.. Go back two directories: cd...)**
 - **Tree:** To view tree 
 - **code .:** Open VS Code
-- Using VS Code is more interactive, and less room for error. Prior to using VS Code, ensure to have all the appropriate extensions. 
+- Install homebrew on terminal
+- 
+- Make sure to install the following commands in your terminal:
+   - code
+   - git
+      - Configure Git and Github
+      - setup GitHub for authentication
+   - node
+   - npm
+   - eslint
+   - tree   
+- Using VS Code is more interactive, and less room for error. Prior to using VS Code, ensure to have all the appropriate extensions.
+   - VS Extensions include: liveserver
+      - ESLint
+      - markdownlint
+      - editorconfig
+      - HTML Preview
+      - Thunder Client    
  
 
 
