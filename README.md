@@ -6,7 +6,7 @@
 
 *I believe that growth mindset can be accomplished by:
 
-- Remembering that it is just a temporary hurdle, and I will see the positive outcome at the end!*
+- Remembering that it is just a temporary hurdle, and I will ~~not~~ see the positive outcome at the end!*
 - Being curious*
 - Understanding that you do not know everything, "yet"!*
 
