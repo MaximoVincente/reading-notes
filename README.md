@@ -2,10 +2,7 @@
 
 ![Mindset](https://user-images.githubusercontent.com/103771906/182227987-20cfba6c-b11a-467b-82b5-7864a624e54c.jpeg)
 
-> ***Growth Mindset for me is the mindset of expecting that there will be challenges on what you are trying to learn or accomplish, but understanding that each challenge can turn in to knowledge.*** 
-
-
-
+> ***Growth Mindset for me are the challenges, on what you are trying to learn or accomplish, but understanding that each challenge will turn into knowledge, to achieve your end state.*** 
 
 I believe that growth mindset can be accomplished by:
 
