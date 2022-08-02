@@ -24,13 +24,14 @@
 [My GitHub Portfolio](https://github.com/MaximoVincente/).
 
 
-Reading Notes 📖
-1. Use ## For Header 
-2. Use > and a space for quotes
-3. Use - and a space for unordered list
-4. Use * for italic
-5. Use *** for bold and italic
-6. To link a Url use [] for alt text and () for the URL
+### Reading Notes 📖
+
+- Use ## For Header 
+- Use > and a space for quotes
+- Use - and a space for unordered list
+- Use * for italic
+- Use *** for bold and italic
+-To link a Url use [] for alt text and () for the URL
 
 
 
