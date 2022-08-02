@@ -1,4 +1,4 @@
-# "The Coder's Compter" Reading Notes 📖
+# "The Coder's Computer" Reading Notes 📖
 
 - `pwd`: Will tell me what directory I am currently in.
 - `ls`: Will list the files of the current directory.
