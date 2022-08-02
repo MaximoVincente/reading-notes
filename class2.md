@@ -1,5 +1,6 @@
 # "The Coder's Computer" Reading Notes 📖
 
+![Coder Image](https://user-images.githubusercontent.com/103771906/182458976-78dab66b-1749-41f1-83eb-29446630bdd8.jpeg)
 - `pwd`: Will tell me what directory I am currently in.
 - `ls`: Will list the files of the current directory.
 - `cd`: Will change the directory.
@@ -32,3 +33,4 @@
       - HTML Preview
       - Thunder Client
 [My GitHub Portfolio](https://github.com/MaximoVincente/).
+
