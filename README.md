@@ -54,5 +54,8 @@ I believe that growth mindset can be accomplished by:
 - **cd..:** Will go back one directory.
    - **Note:** To go back another directory just add another **dot "."  (E.g., Go back one directory: cd.. Go back two directories: cd...)**
 - **Tree:** To view tree 
+- **code .:** Open VS Code
+- Using VS Code is more interactive, and less room for error. Prior to using VS Code, ensure to have all the appropriate extensions. 
+ 
 
 
