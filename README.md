@@ -10,7 +10,7 @@
 - Being curious*
 - Understanding that you do not know everything, "yet"!*
 
-*To learn more about The Growth Mindset, visit* [The Growth Mindset Competency](https://codefellows.github.io/common_curriculum/career_coaching/common/professional-competencies) 
+*To learn more about "The Gorwth Mindset"* [Click here](https://codefellows.github.io/common_curriculum/career_coaching/common/professional-competencies) 
 
 
 
