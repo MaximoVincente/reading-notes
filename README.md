@@ -26,7 +26,7 @@ I believe that growth mindset can be accomplished by:
 
 ### Reading Notes 📖
 
-For Markdown Notes:
+***For Markdown Notes:***
 
 - Use **#** For Header. Additionally, If you add another # the header becomes a smaller font.
 - Use > and a space for quotes.
@@ -40,7 +40,7 @@ For Markdown Notes:
    - **Note:** Once you type the : and the first letter, you will get a list of emojis to scroll through. 
    - Here's an [Emoji Cheat Cheat](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
-For The Coder's Computer Notes:
+***For The Coder's Computer Notes:***
 
 - **pwd:** Will tell me what directory I am currently in.
 - **ls:** Will list the files of the current directory.
