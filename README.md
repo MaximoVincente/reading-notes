@@ -18,7 +18,7 @@ I believe that growth mindset can be accomplished by:
 
 
 
-## About Maximo VincenteMejia  🚀 👨‍💻 🚣‍♂️ ⛰️ 🏕️
+## About Maximo Vincente 🚀 👨‍💻 🚣‍♂️ ⛰️ 🏕️
 ![Army](https://user-images.githubusercontent.com/103771906/182265368-b468a297-35e7-43de-800a-8a25b149c09a.jpg)
 
 
