@@ -32,7 +32,7 @@ I believe that growth mindset can be accomplished by:
 - Use the number for ordered lists (i.e., 1. "space"), and once you go to the next line, the following number (2), will automatically populate. 
 - Use * for italic
 - Use *** for bold and italic
-- To link a Url use [] for alt text and () for the URL with no space inbetween alt text [] and URL().
+- To link a Url use [] for alt text and () for the URL with no space in between alt text [] and URL().
 - To add an image, you can drag and drop the image file. 
 - To add an emoji, use colon, type name of the emoji, and the close it with another colon.    E.g, :insert emoji name here: 
    - Note: Once you type the : and the first letter, you will get a list of emojis to scroll through. 
