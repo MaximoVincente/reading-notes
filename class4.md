@@ -1,5 +1,7 @@
 # "Structure Web Pages with HTML" Reading Notes 📖
 
+![HTML](https://user-images.githubusercontent.com/103771906/182516066-71e9e683-cc17-4bb5-b05f-119fd1b13e97.jpeg)
+
 ## HTML
 
 - HTML contains elements and tags.
