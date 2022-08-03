@@ -1,5 +1,7 @@
 # "Revisions and The Cloud" Reading Notes 📖
 
+![Terminal picture](https://user-images.githubusercontent.com/103771906/182507768-95597e63-c013-490c-8c48-1b99c972b2c2.png)
+
 - Steps to clone repository:
   - Go to the repo at GitHub
   - Click on **Code**
