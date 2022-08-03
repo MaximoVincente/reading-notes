@@ -6,4 +6,5 @@
 
 - [Class 1 Reading Notes](https://maximovincente.github.io/reading-notes/class1)
 - [Class 2 Reading Notes](https://maximovincente.github.io/reading-notes/class2)
+- [Class 3 Reading Notes](https://maximovincente.github.io/reading-notes/class3)
 - [My GitHub Portfolio](https://github.com/MaximoVincente/)

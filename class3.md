@@ -16,6 +16,6 @@
   - `git add file_name` **Adding "Stages" your files // gets them ready to be saved**
   - `git commit -m "description of changes"` **It saves a new version**
   - `git pull origin main` **Pulling the changes made in Github to local**
-- If you work on the same file locallly and through GitHub, and get into a **Gituation**, you need to merge local and GitHub by typing the merge command given by the terminal and pull again. 
-- To remove a file from terminal type`rm -rf file_name` 
+- If you work on the same file locallly and through GitHub, and get into a **Gituation**, you need to merge local and GitHub by typing the merge command given by the terminal and pull again.
+- To remove a file from terminal type`rm -rf file_name`
 - To move files from terminal type `mv`
