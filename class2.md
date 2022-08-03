@@ -33,4 +33,4 @@
       - editorconfig
       - HTML Preview
       - Thunder Client
-[My GitHub Portfolio](https://github.com/MaximoVincente/).
+- [My GitHub Portfolio](https://github.com/MaximoVincente/).

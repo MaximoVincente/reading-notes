@@ -27,4 +27,4 @@ I believe that growth mindset can be accomplished by:
 - To add an emoji, use `:`, type name of the emoji, and the close it with another colon. **E.g, `:insert emoji name here:`
   - **Note:** Once you type the : and the first letter, you will get a list of emojis to scroll through.
   - Here's an [Emoji Cheat Cheat](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
-[My GitHub Portfolio](https://github.com/MaximoVincente/).
+- [My GitHub Portfolio](https://github.com/MaximoVincente/)
