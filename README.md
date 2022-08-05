@@ -10,4 +10,6 @@
 - [Class 4 Reading Notes](https://maximovincente.github.io/reading-notes/class4)
 - [Class 5 Reading Notes](https://maximovincente.github.io/reading-notes/class5)
 - [Class 6 Reading Notes](https://maximovincente.github.io/reading-notes/class6)
+- [Class 7 Reading Notes](https://maximovincente.github.io/reading-notes/class7)
+- [Class 8 Reading Notes](https://maximovincente.github.io/reading-notes/class8)
 - [My GitHub Portfolio](https://github.com/MaximoVincente/)
