@@ -9,19 +9,16 @@
 - Exponentiation assignment: x **= f()
 - Left shift assignment: x <<= f()
 - Right shift assignment: x >>= f()
-- Unsigned right shift assignment: x >>>= f()
+- Unsigned right shift assignment: `x >>>= f()`
 - Bitwise AND assignment: x &= f()
 - Bitwise XOR assignment: x ^= f()
-- Bitwise OR assignment: x |= f()
-- Logical AND assignment: x &&= f()
-- Logical OR assignment: x ||= f()
+- Bitwise OR assignment: `x |= f()`
+- Logical AND assignment: `x &&= f()`
+- Logical OR assignment: `x ||= f()`
 - Logical nullish assignment: x ??= f()
-
 - If an expression evaluates to an object, then the left-hand side of an assignment expression may make assignments to properties of that expression.
-
 - For more complex assignments, the destructuring assignment syntax is a JavaScript expression that makes it possible to extract data from arrays or objects using a syntax that mirrors the construction of array and object literals.
 const foo = ['one', 'two', 'three'];
-
   - // without destructuring
   - const one   = foo[0];
   - const two   = foo[1];
