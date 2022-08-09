@@ -1,0 +1,1 @@
+# Growth Mindset 🧠 and "Markdown" Reading Notes 📖
