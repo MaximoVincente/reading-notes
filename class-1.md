@@ -1,1 +1,1 @@
-# Growth Mindset 🧠 and "Markdown" Reading Notes 📖
+# "JavaScript Basics" Reading Notes 📖

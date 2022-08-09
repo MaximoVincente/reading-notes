@@ -1,4 +1,4 @@
-# "Structure Web Pages with HTML" Reading Notes 📖
+# "Design Web Pages with CSS" Reading Notes 📖
 
 - CSS Cascading Style sheets
 - Styles we see in in browser from html, is the browsers default, to display the intended content
