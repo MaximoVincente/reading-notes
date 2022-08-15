@@ -1,6 +1,6 @@
 # "JavaScript Basics" Reading Notes 📖
 
-***Getting Started***
+## Getting Started
 
 1. **Compose a short poem describing how HTTP sends data between computers.**
    - The browser sends an HTTP request message to the server, requesting a copy of the website for the client. The data or message sent to the server from the client, and vice-versa, is sent through the internet connection, by using the *Transmission Control Protocol and Internet Protocol (TCP/IP).* If the server approves the client's request, the server sends the client a "200 OK" message, and then start sending data packets to the web browser. The browser assembles the data packet to complete the full web page, and then display it the client.
@@ -21,6 +21,65 @@
      - Array`let myVariable = [1,'Max','Pete',11];` Refer to each member of the array like this: `myVariable[0], myVariable[1], etc.,`
      - Object`let myVariable = document.querySelector('h1');` All of the above examples too.
 
-***Introduction to HTML***
+## Introduction to HTML
 
-s
+1. **What is an HTML attribute?**
+   - Attributes contain extra information about the element that won't appear in the content. **An attribute should have:**
+     - A space between it and the element name. (For an element with more than one attribute, the attributes should be separated by spaces too.)
+     - The attribute name, followed by an equal sign.
+     - An attribute value, wrapped with opening and closing quote marks.(*Getting started with HTML*)
+   - Some of the attributes are:
+     - `class` attribute, an identifying name used to target the element with style information.
+     - The Anchor element `<a>`, which makes the enclosed text a hyperlink, uses `href` attribute to specify the web address for the link, `title` attribute to specify extra information about the link, and `target` to specify the browsing context used to display the link.
+     - Boolean attributes
+2. **Describe the Anatomy of an HTMl element.**
+   - The opening tag: This consists of the name of the element (e.g. `<p>` for a paragraph), wrapped in opening and closing angle brackets. This opening tag marks where the element begins or starts to take effect.
+   - The content: This is the content of the element. E.g., `My name is Maximo`.
+   - The closing tag: This is the same as the opening tag, except that it includes a forward slash before the element name. This marks where the element ends. Failing to include a closing tag is a common beginner error that can produce peculiar results. E.g., `<p>My name is Maximo</p>`.
+   - **The element is the opening tag, followed by content, followed by the closing tag.**
+3. **What is the Difference between `<article>` and `<section>` element tags?**
+   - `<article>` encloses a block of related content that makes sense on its own without the rest of the page (e.g., a single blog post).
+   - `<section>` is similar to `<article>`, but it is more for grouping together a single part of the page that constitutes one single piece of functionality (e.g., a mini map, or a set of article headlines and summaries), or a theme. It's considered best practice to begin each section with a heading; also note that you can break `<article>`s up into different `<section>`s, or `<section>`s up into different `<article>`s, depending on the context.
+4. **What Elements does a “typical” website include?**
+   - `<!DOCTYPE html>` is the shortest string of characters that counts as a valid doctype.
+   - `<html></html>`: The `<html>` element. This element wraps all the content on the page. It is sometimes known as the root element.
+   - `<head></head>`: The `<head>` element. This element acts as a container for everything you want to include on the HTML page, that isn't the content the page will show to viewers. This includes keywords and a page description that would appear in search results, CSS to style content, character set declarations, and more. You will learn more about this in the next article of the series.
+   - `<meta charset="utf-8">`: The `<meta>` element. This element represents metadata that cannot be represented by other HTML meta-related elements, like `<base>`, `<link>`, `<script>`, `<style>` or `<title>`. The charset attributes sets the character set for your document to UTF-8, which includes most characters from the vast majority of human written languages. With this setting, the page can now handle any textual content it might contain. There is no reason not to set this, and it can help avoid some problems later.
+   - `<title></title>`: The `<title>` element. This sets the title of the page, which is the title that appears in the browser tab the page is loaded in. The page title is also used to describe the page when it is bookmarked.
+   - `<body></body>`: The `<body>` element. This contains all the content that displays on the page, including text, images, videos, games, playable audio tracks, or whatever else.(*Getting started with HTML*)
+   - Inside `<body></body>` The typical elements are:
+     - header: `<header>`.
+     - navigation bar: `<nav>`.
+     - main content: `<main>`, with various content subsections represented by `<article>`, `<section>`, and `<div>` elements.
+     - sidebar: `<aside>`; often placed inside `<main>`.
+     - footer: `<footer>`.
+5. **How does metadata influence Search Engine Optimization?**
+   - By using meta elements to specify a description, name, etc., that includes keywords relating to the content of the web page is useful as it has the potential to make your page appear higher in relevant searches performed in search engines, and improve search rankings.
+6. **How is the `<meta>` HTML tag used when specifying metadata?**
+   - By including the `name` and `content` attribute to the `<meta>` element.
+      - The `name` attribute specifies the type of meta element it is; what type of information it contains.
+      - The `content` attribute specifies the actual meta content.
+      - Here's and example: `<meta name="description" content="This is the content of your web page">`
+
+## Miscellaneous
+
+***How to start to design a Website***
+
+1. What is the first step to designing a Website?
+   - The first step to designing a website is *"Project Ideation"*:
+     - What exactly do I want to accomplish?
+     - How will a website help me reach my goals?
+     - What needs to be done, and in what order, to reach my goals?
+2. What is the most important question to answer when designing a Website?
+   - What exactly do I want to accomplish? (List all the goals you want to reach.)
+
+***Semantics***
+
+1. Why should you use an `<h1>` element over a `<span>` element to display a top level heading?
+   - m
+2. What are the benefits of using semantic tags in our HTML?
+
+***What is JavaScript?***
+
+1. Describe 2 things that require JavaScript in the Browser?
+2. How can you add JavaScript to an HTML document?
