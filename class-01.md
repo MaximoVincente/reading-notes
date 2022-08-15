@@ -1,5 +1,7 @@
 # "JavaScript Basics" Reading Notes 📖
 
+***Learning the basics of HTML, and JavaScript is very crucial, as it will be the foundation of the upcoming classes. Understanding how HTML and JS works makes it easier to understand; know what each element, attribute, tag, variable, function does, is the first step to know how to use it, and effectively apply it.***
+
 ## Getting Started
 
 1. **Compose a short poem describing how HTTP sends data between computers.**
