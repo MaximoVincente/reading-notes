@@ -76,10 +76,26 @@
 ***Semantics***
 
 1. Why should you use an `<h1>` element over a `<span>` element to display a top level heading?
-   - m
+   - `<h1>` has semantic value, `<span>` does not. HTML should be coded to represent the data that will be populated and not based on its default presentation styling. For presentation, you should use **CSS**
 2. What are the benefits of using semantic tags in our HTML?
+   - Search engines will consider its contents as important keywords to influence the page's search rankings, influencing Search Engine Optimization.
+   - Screen readers can use it as a signpost to help visually impaired users navigate a page
+   - Finding blocks of meaningful code is significantly easier than searching through endless divs with or without semantic or namespaced classes
+   - Suggests to the developer the type of data that will be populated
+   - Semantic naming mirrors proper custom element/component naming
 
 ***What is JavaScript?***
 
 1. Describe 2 things that require JavaScript in the Browser?
+   - Adding browser APIs.
+   - To make the web browser dynamic.
 2. How can you add JavaScript to an HTML document?
+   - JavaScript uses `<script>` to add it to HTML.
+   - Internal Javascript: Adding it directly to the HTML
+   - External Javascript: Adding an external .js file.
+
+## Things I want to know more about
+
+1. What is the best practice to add JavaScript, and ensure that HTML runs prior to it to avoid error?
+2. How do I add APIs?
+3. What is the best use for `<div>`?
