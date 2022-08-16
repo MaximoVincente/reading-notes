@@ -1,5 +1,7 @@
 # "JavaScript Basics" Reading Notes 📖
 
+***As we explore semantic elements in HTML, it is important to know the value of using them. There were many semantic elements that I did not know existed, but now I was able to replace elements that did not hold any semantic value. An important area of emphasis of all the reading for me was the different type of operators, conditionals, and functions, which feels like the first big step into JavaScript***
+
 ## HTML Text Fundamentals, and HTML Advanced Text Formatting
 
 1. **Why is it important to use semantic elements in our HTML?**
