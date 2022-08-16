@@ -7,7 +7,7 @@
 2. **How many levels of headings are there in HTML?**
    - There are six heading elements: `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>`, and `<h6>`. Each element represents a different level of content in the document; `<h1>` represents the main heading, `<h2>` represents subheadings, `<h3>` represents sub-subheadings, and so on.
 3. **What are some uses for the `<sup>` and `<sub>` elements?**
-   - Some of the uses for `<sup>` can be dates, or mathematical equations. For `<sub>` =, it can be used for formulas, and mathematical equations. 
+   - Some of the uses for `<sup>` can be dates, or mathematical equations. For `<sub>` =, it can be used for formulas, and mathematical equations.
 4. **When using the `<abbr>` element, what attribute must be added to provide the full expansion of the term?**
    - To wrap around abbreviation or acronyms, provide a full expansion of the term in plain text on first use, along with `<abbr>` to mark up abbreviation
 
@@ -29,7 +29,7 @@
    3. *Which components are considered properties?*
       - `color`, and `padding` are the properties in the above CSS block
 
-## JS Basics and Conditionals
+## JS Basics
 
 1. **What data type is a sequence of text enclosed in single quote marks?**
     - Data type of text enclosed in single quote marks `''` are strings
@@ -43,36 +43,44 @@
     - Not `!`
     - Does-not-equal `!==`
 3. **Describe a real world Problem you could solve with a Function.**
-    - 
+    - Mathematical Equations.
 
+## Conditionals
 
+1. **An if statement checks a ***condition*** and if it evaluates to ***true***, then the code block will execute.**
+2. **What is the use of an `else if`?**
+    - It is a way to chain on extra choices/outcomes to your `if...else` — using `else if`. Each extra choice requires an additional block to put in between `if () { }` and `else { }`
+3. **List 3 different types of comparison operators.**
+    - `===` Identical
+    - `!==` Not identical
+    - `<` Less than
+    - `>` Greater Than
+4. **What is the difference between the logical operator `&&` and `||`?**
+    - `&&` — AND; allows you to chain together two or more expressions so that all of them have to individually evaluate to true for the whole expression to return true.
+    - `||` — OR; allows you to chain together two or more expressions so that one or more of them have to individually evaluate to true for the whole expression to return true.
 
+## Things I want to know more about
 
+***Description lists in HTML***
 
+- Description lists use a different wrapper than the other list types — `<dl>`; in addition each term is wrapped in a `<dt>` (description term) element, and each description is wrapped in a `<dd>` (description definition) element.
 
+***Representing computer code***
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Description lists use a different wrapper than the other list types — <dl>; in addition each term is wrapped in a <dt> (description term) element, and each description is wrapped in a <dd> (description definition) element.
-
-Representing computer code
-There are a number of elements available for marking up computer code using HTML:
-<code>: For marking up generic pieces of computer code.
-<pre>: For retaining whitespace (generally code blocks) — if you use indentation or excess whitespace inside your text, browsers will ignore it and you will not see it on your rendered page. If you wrap the text in <pre></pre> tags however, your whitespace will be rendered identically to how you see it in your text editor.
-<var>: For specifically marking up variable names.
-<kbd>: For marking up keyboard (and other types of) input entered into the computer.
-<samp>: For marking up the output of a computer program.
+- There are a number of elements available for marking up computer code using HTML:
+- `<code>`: For marking up generic pieces of computer code.
+- `<pre>`: For retaining whitespace (generally code blocks) — if you use indentation or excess whitespace inside your text, browsers will ignore it and you will not see it on your rendered page. If you wrap the text in `<pre></pre>` tags however, your whitespace will be rendered identically to how you see it in your text editor.
+`<var>`: For specifically marking up variable names.
+`<kbd>`: For marking up keyboard (and other types of) input entered into the computer.
+`<samp>`: For marking up the output of a computer program.
 - Use `<pre>`, then `<code>`
+
+***References***
+
+- [HTML Text Fundamentals](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals )
+- [HTML Advanced Text Formatting](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting)
+- [How CSS is Structured](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_is_structured)
+- [Javascript Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+- [Making Decisions in Your Code - Conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
+
+- [My GitHub Portfolio](https://github.com/MaximoVincente/)

@@ -11,7 +11,7 @@
 ***Table of Contents:***
 
 - [Javascript-Basics](https://maximovincente.github.io/reading-notes/class-01)
-- [Class 2](https://maximovincente.github.io/reading-notes/class-2)
+- [Class 2](https://maximovincente.github.io/reading-notes/class-02)
 - [Class 3](https://maximovincente.github.io/reading-notes/class-3)
 - [Class 4](https://maximovincente.github.io/reading-notes/class-4)
 - [Class 5](https://maximovincente.github.io/reading-notes/class-5)
