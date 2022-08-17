@@ -12,7 +12,7 @@
 
 - [Javascript-Basics](https://maximovincente.github.io/reading-notes/class-01)
 - [Basics of HTML, CSS & JS](https://maximovincente.github.io/reading-notes/class-02)
-- [Class 3](https://maximovincente.github.io/reading-notes/class-3)
+- [HTML(Orderered and Unordered list), CSS (Box Model), JS (Arrays, Operators and Expressions, Conditionals, Loops)](https://maximovincente.github.io/reading-notes/class-03)
 - [Class 4](https://maximovincente.github.io/reading-notes/class-4)
 - [Class 5](https://maximovincente.github.io/reading-notes/class-5)
 - [Class 6](https://maximovincente.github.io/reading-notes/class-6)

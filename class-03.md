@@ -54,3 +54,14 @@ order, i.e., Steps in recipe, turn-by-turn directions, etc.
 
 - I would like to know more about Margin Collapsing
 - I would like some clarification when removing an array by knowing the index
+
+***References***
+
+- [Ordered Lists](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol)
+- [Unordered Lists](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
+- [The Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
+- [Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays)
+- [Operators and Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
+- [Conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
+- [Loops](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code)
+- [My GitHub Portfolio](https://github.com/MaximoVincente/)
