@@ -55,3 +55,11 @@
 
 1. **Pick 2 benefits to pair programming and reflect on how these benefits could help you on your coding journey.**
    - **"Engaged Collaboration", and "Learning from Fellow Students"**: This benefit to pair programming has already helped me exponentially, in code fellows. Collaborating with my classmates in Remo, where we would ask questions about the projects, and inspect each other's code. It has been helpful to read a fellow cassmate's code and understand what their code is doing, and identify any bugs, also when I have a bug and read my code out load to a classmate, I identify the buy; having someone to read out loud your code definitely helps! Additionally, when working with a TA has really helped me too, having that expertise explanation of why the code was not working, and how the solution worked.
+
+## References
+
+- [HTML Creating Hyperlinks](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks)
+- [CSS Layouts(Normal Flow and Positioning)](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow)
+- [JS Functions](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions)
+- [6 Reasons for Pair Programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
+- [My GitHub Portfolio](https://github.com/MaximoVincente/)
