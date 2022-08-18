@@ -8,6 +8,9 @@
     ``` html
    <p> I'm creating a link to <a href="https://www.mozilla.org/en-US/">the Mozilla homepage</a>. </p>
 
+
+
+
     ```
 
 2. **The href attribute contains what information?**
@@ -45,6 +48,9 @@
  }
     //This is a Function Invocation 
     myFunction();//calling the function 
+
+
+
 
  ```
 
