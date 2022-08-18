@@ -1,5 +1,7 @@
 # "Class 04" Reading Notes 📖
 
+***This topic matters because every weebpage has links, and we need to know how to effectively use them, to make them accessible to the user. Understanding the layout of a page is very important , as far as how the user interacts with the web page/app (UI). Additonally, functions will be a very effective way to reuse a block of code, resulting in more efficiency, and better coding.***
+
 ## Creating Hyperlinks
 
 1. **To create a basic link, we wrap text or other content inside what element?**
@@ -61,6 +63,10 @@
 
 1. **Pick 2 benefits to pair programming and reflect on how these benefits could help you on your coding journey.**
    - **"Engaged Collaboration", and "Learning from Fellow Students"**: This benefit to pair programming has already helped me exponentially, in code fellows. Collaborating with my classmates in Remo, where we would ask questions about the projects, and inspect each other's code. It has been helpful to read a fellow cassmate's code and understand what their code is doing, and identify any bugs, also when I have a bug and read my code out load to a classmate, I identify the buy; having someone to read out loud your code definitely helps! Additionally, when working with a TA has really helped me too, having that expertise explanation of why the code was not working, and how the solution worked.
+
+## Things I want to know more about
+
+I would like to learn more about fixed positioning in CSS, and a demo on how to use it.
 
 ## References
 
