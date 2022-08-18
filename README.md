@@ -14,7 +14,7 @@
 - [Basics of HTML, CSS & JS](https://maximovincente.github.io/reading-notes/class-02)
 - [HTML(Orderered and Unordered list), CSS (Box Model), JS (Arrays, Operators and Expressions, Conditionals, Loops)](https://maximovincente.github.io/reading-notes/class-03)
 - [Creating Hyperlinks, CSS Layout: (normal flow and positioning), JS Functions](https://maximovincente.github.io/reading-notes/class-04)
-- [Class 5](https://maximovincente.github.io/reading-notes/class-5)
+- [Using Images in HTML, Common Image Types, and Chossing Image Formats. Using Colors in CSS, and Styling HTML Text Elements](https://maximovincente.github.io/reading-notes/class-05)
 - [Class 6](https://maximovincente.github.io/reading-notes/class-6)
 - [Class 7](https://maximovincente.github.io/reading-notes/class-7)
 - [Class 8](https://maximovincente.github.io/reading-notes/class-8)
