@@ -1,4 +1,4 @@
-# "Class 03" Reading Notes 📖
+# "Class 04" Reading Notes 📖
 
 ## Creating Hyperlinks
 
