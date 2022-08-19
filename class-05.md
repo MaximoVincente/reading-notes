@@ -1,6 +1,6 @@
 # "Class 05" Reading Notes 📖
 
-***mmm***
+***This topic matters because knowing how images display as default, and how they interact with other content, will help us layout our web page better. Knowing which color to use for styling is important for the user, we need to make sure that the contrast of the colors we choose give a good experience to the reader. we also need to take into consideration users that are color blind. Additonally, we need to know how to manipulate the size, and font of our content.***
 
 ## Using Images in HTML, Common Image Types, Choosing Image Formats
 
@@ -46,10 +46,11 @@ normal, bold: Normal and bold font weight.
 lighter, bolder: Sets the current element's boldness to be one step lighter or heavier than its parent element's boldness.
 100–900: Numeric boldness values that provide finer grained control than the above keywords, if needed.
 5. **Describe two ways you could add spacing around the characters displayed in an h1 element.**
+   - We can use `letter-spacing`
 
 ## Things I want to Know More About
 
-- 
+- I would like to know more about resizing images without losing much resolution
 
 ## References
 
