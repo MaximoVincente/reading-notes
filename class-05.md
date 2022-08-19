@@ -30,7 +30,7 @@
    - Background color is the text's background and used in areas with not foreground content, and foreground color is the color property.
 2. **Your friend asks you to give his colorless blog website a touch up. How would you use color to give his blog some character?**
    - I would research colore blindness, and ensure the colors chosen can be readable for a user thart is color blind.
-   - A color that is naturally associated with the topic of my frined's content, such as the existing color identified with a product or idea or a color representative of the emotion you wish to convey.
+   - A color that is naturally associated with the topic of my friend's content, such as the existing color identified with a product or idea or a color representative of the emotion you wish to convey.
    - A color that comes from imagery associated with what the content is about.
    - Browse websites that let you look at lots of existing color palettes and images to find inspiration.
 3. **What should you consider when choosing fonts for an HTML document?**
