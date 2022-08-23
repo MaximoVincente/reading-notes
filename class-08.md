@@ -9,10 +9,11 @@
    sizes, and returning the best layout for those items.
 This is the ideal layout model for this sidebar pattern. Flexbox not only helps lay the sidebar and content out inline, but where there's not enough space remaining, the sidebar will break onto a new line. Instead of setting rigid dimensions for the browser to follow, with flexbox, you can instead provide flexible boundaries to hint how the content could display.
 2. **Explain the difference between the main axis and cross axis.**
-   - The main axis is the one set by your flex-direction property. If that is row your main axis is along the row, if it is column your main axis is along the column.
+   - The main axis is the one set by your `flex-direction` property. If that is `row` your main axis is along the row, if it is `column` your main axis is along the column.
    Flex items move as a group on the main axis. Remember: we've got a bunch of things and we are trying to get the best layout for them as a group.
-The cross axis runs in the other direction to the main axis, so if flex-direction is row the cross axis runs along the column. You can do two things on the cross axis. You can move the items individually or as a group so they align against each other and the flex container. Also, if you have wrapped flex lines, you can treat those lines as a group in order to control how space is assigned to those lines.
-3. **How can using certain properties of flexbox negatively impactaccessibility?**
+The cross axis runs in the other direction to the main axis, so if `flex-direction` is row the cross axis runs along the column. You can do two things on the cross axis. You can move the items individually or as a group so they align against each other and the flex container. Also, if you have wrapped flex lines, you can treat those lines as a group in order to control how space is assigned to those lines.
+3. **How can using certain properties of flexbox negatively impact accessibility?**
+   - You should be cautious when using any properties that reorder the visual display away from how things are ordered in the HTML document, as it can negatively impact accessibility. The `row-reverse` and `column-reverse` values are a good example of this. The reordering only happens for the visual order, not the logical order. This is important to understand as the logical order is the order that a screen reader will read out the content, and anyone navigating using the keyboard will follow.
 
 ## CSS Layout - Flexbox
 
