@@ -17,7 +17,7 @@
 - [Using Images in HTML, Common Image Types, and Chossing Image Formats. Using Colors in CSS, and Styling HTML Text Elements](https://maximovincente.github.io/reading-notes/class-05)
 - [Javascript Object Basics, and Intro to the DOM](https://maximovincente.github.io/reading-notes/class-06)
 - [Domain Model, HTML Table Basics, Introducing Constructors, Object Protoypes Using a Constructor](https://maximovincente.github.io/reading-notes/class-07)
-- [Class 8](https://maximovincente.github.io/reading-notes/class-8)
+- [CSS Flexbox, and CSS Layout Flexbox](https://maximovincente.github.io/reading-notes/class-08)
 - [Class 9](https://maximovincente.github.io/reading-notes/class-9)
 - [Class 10](https://maximovincente.github.io/reading-notes/class-10)
 - [Class 11](https://maximovincente.github.io/reading-notes/class-11)
