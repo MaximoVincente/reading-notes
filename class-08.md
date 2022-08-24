@@ -1,6 +1,6 @@
 # "Class 08" Reading Notes 📖
 
-***m***
+***This topic matters for styling. These are very useful styling options that we frequently see in web appllications.***
 
 ## CSS Flexbox
 
@@ -18,9 +18,19 @@ The cross axis runs in the other direction to the main axis, so if `flex-directi
 ## CSS Layout - Flexbox
 
 1. **What are some advantages of using flexbox over float?**
+   - They can display as a row, or a column.
+   - They respect the writing mode of the document.
+   - They are single line by default, but can be asked to wrap onto multiple lines.
+   - Items in the layout can be visually reordered, away from their order in the DOM.
+   - Space can be distributed inside the items, so they become bigger and smaller according to the space available in their parent.
+   - Space can be distributed around the items and flex lines in a wrapped layout, using the Box Alignment properties.
+   - The items themselves can be aligned on the cross axis.
 2. **How does this topic connect with your long term goals?**
+   - It is another tool to add for web applications. It is a very functional feature noticed in many popular web apps, which means that it is important as a Dev to know flexbox and floats. 
 
 ## Thing I want to know more about
+
+Demo on using a flexbox.
 
 ## References
 
