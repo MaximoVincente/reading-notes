@@ -19,7 +19,7 @@
 - [Domain Model, HTML Table Basics, Introducing Constructors, Object Protoypes Using a Constructor](https://maximovincente.github.io/reading-notes/class-07)
 - [CSS Flexbox, and CSS Layout Flexbox](https://maximovincente.github.io/reading-notes/class-08)
 - [Your First Web Form, How to Structure a Web Form, and JS Introduction to Events](https://maximovincente.github.io/reading-notes/class-09)
-- [Class 10](https://maximovincente.github.io/reading-notes/class-10)
+- [Troubleshooting JavaScript, and The JavaScript Debugger](https://maximovincente.github.io/reading-notes/class-10)
 - [Class 11](https://maximovincente.github.io/reading-notes/class-11)
 - [Class 12](https://maximovincente.github.io/reading-notes/class-12)
 - [Class 13](https://maximovincente.github.io/reading-notes/class-13)
