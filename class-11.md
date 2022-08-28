@@ -1,6 +1,6 @@
 # "Class 10" Reading Notes 📖
 
-***m***
+***This topic matters since most web applications have video and audio. Grid is one of the most useful CSS tool available for layout, and this topic teaches us its purpose. Additonally, with many devices having different screen resolutions and sizes, we wnt to create a web app that gives the user the same experience, regardless of resolution, or devices***
 
 ## HTML Video Audio Content
 
@@ -18,15 +18,25 @@
 ## CSS A Complete Guide To Grid
 
 1. **How does Grid layout differ from Flex?**
+   - Flexbox is a one-directional based layout, comparder to grid that has a two-dimensional grid based layout.
 2. **Grid container, grid item, and grid line are a few important terms to understand when using Grid. Please describe these terms in a few sentences.**
+   - **Grid Container:** The element on which display: grid is applied. It’s the direct parent of all the grid items
+   - **Grid Item:** The children (i.e. direct descendants) of the grid container.
+   - **Grid Line:** The dividing lines that make up the structure of the grid. They can be either vertical (“column grid lines”) or horizontal (“row grid lines”) and reside on either side of a row or column.
 
 ## Responsive Images
 
 1. **Besides making a site visually appealing across different screen sizes, why should developers make images responsive?**
+   - This helps to improve performance across different devices. Responsive images are just one part of responsive design. Additionally, for UI and UX purpose. 
 2. **Define the following `<img>` attributes srcset and sizes. Write an example of how they are used.**
+   - `srcset` defines the set of images we will allow the browser to choose between, and what size each image is.
+   - `sizes` defines a set of media conditions (e.g. screen widths) and indicates what image size would be best to choose, when certain media conditions are true
 3. **How is srcset more helpful for responsive images than CSS or JavaScript?**
+   - When the browser starts to load a page, it starts to download (preload) any images before the main parser has started to load and interpret the page's CSS and JavaScript. That mechanism is useful in general for reducing page load times, but to be helpful for responsive images, we can implement `srcset`.
 
 ## Things I want To More More About
+
+How do I make a mobile and a desktop site, and how will the web app know which size content to show? 
 
 ## References
 
