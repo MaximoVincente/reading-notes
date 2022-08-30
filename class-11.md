@@ -13,7 +13,7 @@
 3. **Why is it important to have fallback content inside the `<video>` element?**
    - It allows us to provide a content for when browsers do not support the video. This can be anything you like; in this case, we've provided a direct link to the video file, so the user can at least access it some way regardless of what browser they are using.
 4. **Write a very short story where `<audio>` and `<video>` are characters.**
-   - Once upon a time in the land of  "The Internet Browser", there were words and images in a box, everyone enjoyed reading the words and and seeing images describing the words. One day, a meteor hit the box, and when everyone gathered, to see if the box was ok, the box was emmiting the sounds words and the images were moving at the same speed of the sounds, displaying what the words described. This changed the Internet Broswer forever, and since then the box has evolved. 
+   - Once upon a time in the land of  "The Internet Browser", there were words and images in a box, everyone enjoyed reading the words and and seeing images describing the words. One day, a meteor hit the box, and when everyone gathered, to see if the box was ok, the box was emmiting the sounds words and the images were moving at the same speed of the sounds, displaying what the words described. This changed the Internet Broswer forever, and since then the box has evolved.
 
 ## CSS A Complete Guide To Grid
 
@@ -27,7 +27,7 @@
 ## Responsive Images
 
 1. **Besides making a site visually appealing across different screen sizes, why should developers make images responsive?**
-   - This helps to improve performance across different devices. Responsive images are just one part of responsive design. Additionally, for UI and UX purpose. 
+   - This helps to improve performance across different devices. Responsive images are just one part of responsive design. Additionally, for UI and UX purpose.
 2. **Define the following `<img>` attributes srcset and sizes. Write an example of how they are used.**
    - `srcset` defines the set of images we will allow the browser to choose between, and what size each image is.
    - `sizes` defines a set of media conditions (e.g. screen widths) and indicates what image size would be best to choose, when certain media conditions are true
@@ -36,7 +36,7 @@
 
 ## Things I want To More More About
 
-How do I make a mobile and a desktop site, and how will the web app know which size content to show? 
+How do I make a mobile and a desktop site, and how will the web app know which size content to show?
 
 ## References
 
