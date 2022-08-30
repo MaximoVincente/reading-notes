@@ -1,4 +1,4 @@
-# "Class 10" Reading Notes 📖
+# "Class 11" Reading Notes 📖
 
 ***This topic matters since most web applications have video and audio. Grid is one of the most useful CSS tool available for layout, and this topic teaches us its purpose. Additonally, with many devices having different screen resolutions and sizes, we wnt to create a web app that gives the user the same experience, regardless of resolution, or devices***
 
