@@ -22,7 +22,7 @@
 - [Troubleshooting JavaScript, and The JavaScript Debugger](https://maximovincente.github.io/reading-notes/class-10)
 - [HTML Video And Content, CSS A Complete Guide To Grid, and Responsive Images](https://maximovincente.github.io/reading-notes/class-11)
 - [JS Canvas and chart.js](https://maximovincente.github.io/reading-notes/class-12)
-- [Class 13](https://maximovincente.github.io/reading-notes/class-13)
+- [Local Storage and How to Use It](https://maximovincente.github.io/reading-notes/class-13)
 - [Class 14a](https://maximovincente.github.io/reading-notes/class-14a)
 - [Class 14b](https://maximovincente.github.io/reading-notes/class-14b)
 
