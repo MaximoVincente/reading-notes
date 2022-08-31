@@ -33,10 +33,10 @@ I would like to know more about using transform and creating a 3d cube.
 
 ## References
 
-[CSS Transforms](https://learn.shayhowe.com/advanced-html-css/css-transforms/)
-[CSS Transitions & Animations](https://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users/)
-[8 simple CSS3 transitions that will wow your users](https://learn.shayhowe.com/advanced-html-css/transitions-animations/)
-[Pure CSS Bounce Animation](https://codepen.io/dp_lewis/pen/QWMxRR)
-[6 Buttons animated](https://codepen.io/retyui/pen/ByoaXV)
-[CSS3 Animations: Keyframes](https://codepen.io/akshaychauhan/pen/dyBqVo)
-[404](https://codepen.io/kieranfivestars/pen/MYdQxX)
+- [CSS Transforms](https://learn.shayhowe.com/advanced-html-css/css-transforms/)
+- [CSS Transitions & Animations](https://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users/)
+- [8 simple CSS3 transitions that will wow your users](https://learn.shayhowe.com/advanced-html-css/transitions-animations/)
+- [Pure CSS Bounce Animation](https://codepen.io/dp_lewis/pen/QWMxRR)
+- [6 Buttons animated](https://codepen.io/retyui/pen/ByoaXV)
+- [CSS3 Animations: Keyframes](https://codepen.io/akshaychauhan/pen/dyBqVo)
+- [404](https://codepen.io/kieranfivestars/pen/MYdQxX)
