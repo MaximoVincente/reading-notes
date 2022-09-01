@@ -24,7 +24,7 @@
 - [JS Canvas and chart.js](https://maximovincente.github.io/reading-notes/class-12)
 - [Local Storage and How to Use It](https://maximovincente.github.io/reading-notes/class-13)
 - [CSS Transforms, Transitions, Animations](https://maximovincente.github.io/reading-notes/class-14a)
-- [Class 14b](https://maximovincente.github.io/reading-notes/class-14b)
+- [What Google Learned From Its Quest to Build the Perfect Team](https://maximovincente.github.io/reading-notes/class-14b)
 
 ### Code 102
 
