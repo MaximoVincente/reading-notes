@@ -4,7 +4,7 @@
 
 ***Hello! I currently live in Philadelphia, and active Duty in the US Army working with rockets and missiles. I am on the path to become a Software Engineer. This website will document my reading notes for every class, throughout my Software Development process. This will allow you and myself to reference any subject with ease if needed.***
 
-# Reading Notes
+## Reading Notes
 
 ## Code 301
 
