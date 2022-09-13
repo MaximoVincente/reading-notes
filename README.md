@@ -6,7 +6,11 @@
 
 ## Reading Notes
 
-### Code 201
+## Code 301
+
+***Table of Contents:***
+
+## Code 201
 
 ***Table of Contents:***
 
@@ -26,7 +30,7 @@
 - [CSS Transforms, Transitions, Animations](https://maximovincente.github.io/reading-notes/class-14a)
 - [What Google Learned From Its Quest to Build the Perfect Team](https://maximovincente.github.io/reading-notes/class-14b)
 
-### Code 102
+## Code 102
 
 ***Table of Contents:***
 
