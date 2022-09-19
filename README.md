@@ -10,7 +10,7 @@
 
 ***Table of Contents:***
 
-- [Component-Based Architecture | What is 'props', and how to use in React](https://maximovincente.github.io/reading-notes/class-1)
+- [Component-Based Architecture, and What is props, and how to use in React](https://maximovincente.github.io/reading-notes/class-1)
 
 ## Code 201
 
