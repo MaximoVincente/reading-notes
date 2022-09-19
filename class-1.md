@@ -2,7 +2,7 @@
 
 ***This topic matters because it is our first step in diving into React. Most of us coming from Code 201 have never used react, and have very little understanding of it. Understanding Component-Based Architecture, and and how to use props in react, was my first dive into anything related to React***
 
-## Component-Base Architecture
+## Component-Based Architecture
 
 1. **What is a “component”?**
    - A component is a modular, portable, replaceable, and reusable set of well-defined functionality that encapsulates its implementation and exporting it as a higher-level interface. A component is a software object, intended to interact with other components, encapsulating certain functionality or a set of functionalities.
