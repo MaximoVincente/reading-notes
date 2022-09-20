@@ -11,6 +11,7 @@
 ***Table of Contents:***
 
 - [Component-Based Architecture, and What is props, and how to use in React](https://maximovincente.github.io/reading-notes/class-1)
+- [React Lifecycle](https://maximovincente.github.io/reading-notes/class-2)
 
 ## Code 201
 
