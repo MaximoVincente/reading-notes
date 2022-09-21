@@ -1,4 +1,4 @@
-# "Class 01" Reading Notes 📖
+# "Class 02" Reading Notes 📖
 
 ***This topic matters, because we are going to render more than just text and images in our application, and understanding the lifecycle of React gives us a better understanding of its methods. Additionally, applications are dynamic, and we are going to need to learn state to make it happen.***
 
