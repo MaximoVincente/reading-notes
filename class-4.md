@@ -29,7 +29,7 @@ if(x===y){
 
 ## Things I want to know more about
 
-I want to know more about handling multiple inputs in forms. 
+I want to know more about handling multiple inputs in forms.
 
 ## References
 

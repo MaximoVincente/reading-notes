@@ -14,6 +14,7 @@
 - [React Lifecycle, and React State Vs Props](https://maximovincente.github.io/reading-notes/class-2)
 - [React Docs-Lists and keys, The Spread Operator, How to pass functions between components](https://maximovincente.github.io/reading-notes/class-3)
 - [React and Forms](https://maximovincente.github.io/reading-notes/class-4)
+- [Thinking in React, and Higher-Order Functions](https://maximovincente.github.io/reading-notes/class-5)
 
 ## Code 201
 
