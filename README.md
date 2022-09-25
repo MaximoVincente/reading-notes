@@ -15,6 +15,7 @@
 - [React Docs-Lists and keys, The Spread Operator, How to pass functions between components](https://maximovincente.github.io/reading-notes/class-3)
 - [React and Forms](https://maximovincente.github.io/reading-notes/class-4)
 - [Thinking in React, and Higher-Order Functions](https://maximovincente.github.io/reading-notes/class-5)
+- [Thinking in React, and Higher-Order Functions](https://maximovincente.github.io/reading-notes/class-6)
 
 ## Code 201
 
