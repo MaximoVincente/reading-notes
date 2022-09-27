@@ -16,6 +16,7 @@
 - [React and Forms](https://maximovincente.github.io/reading-notes/class-4)
 - [Thinking in React, and Higher-Order Functions](https://maximovincente.github.io/reading-notes/class-5)
 - [An Introduction to Node.js, and 6 Reasons for Pair Programming](https://maximovincente.github.io/reading-notes/class-6)
+- [REST, and API Keys](https://maximovincente.github.io/reading-notes/class-7)
 
 ## Code 201
 
