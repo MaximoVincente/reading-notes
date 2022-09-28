@@ -18,6 +18,7 @@
 - [An Introduction to Node.js, and 6 Reasons for Pair Programming](https://maximovincente.github.io/reading-notes/class-6)
 - [REST, and API Keys](https://maximovincente.github.io/reading-notes/class-7)
 - [API Design Best Practices](https://maximovincente.github.io/reading-notes/class-8)
+- [Functional Programming Conceppts, and Node JS Tuorial for Beginners](https://maximovincente.github.io/reading-notes/class-9)
 
 ## Code 201
 
