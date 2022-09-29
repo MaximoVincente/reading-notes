@@ -1,4 +1,4 @@
-# "Class 07" Reading Notes 📖
+# "Class 09" Reading Notes 📖
 
 ## Functional Programming Concepts
 
