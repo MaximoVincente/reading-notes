@@ -7,7 +7,6 @@
 - The call stack is primarily used for function invocation (call). Since the call stack is single, function(s) execution, is done, one at a time, from top to bottom. It means the call stack is synchronous.
 
 2. How many ‘calls’ can happen at once?
-- 
 3. What does LIFO mean?
 
 - Last In, First Out, it means that the last function that gets pushed into the stack is the first to be pop out, when the function returns
