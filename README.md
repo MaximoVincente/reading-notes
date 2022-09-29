@@ -19,6 +19,7 @@
 - [REST, and API Keys](https://maximovincente.github.io/reading-notes/class-7)
 - [API Design Best Practices](https://maximovincente.github.io/reading-notes/class-8)
 - [Functional Programming Conceppts, and Node JS Tuorial for Beginners](https://maximovincente.github.io/reading-notes/class-9)
+- [Understanding the JavaScript Call Stack, and JS Error Messages](https://maximovincente.github.io/reading-notes/class10)
 
 ## Code 201
 
