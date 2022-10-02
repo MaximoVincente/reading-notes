@@ -51,7 +51,7 @@
 
 ## Things I want to learn more about
 
-I want learn more about when it is best to use SQL vs NoSQL or vice-versa.
+I want learn more about ralational database.
 
 ## References
 
