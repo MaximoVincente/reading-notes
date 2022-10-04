@@ -1,4 +1,4 @@
-# "Class 12" Reading Notes 📖
+# "Class 13" Reading Notes 📖
 
 ## CRUD Basics
 
@@ -18,7 +18,8 @@
    - Create Authentication Module
    - Middleware
 
-## Things I want to know more about 
+## Things I want to know more about
+
 How to create an authentication module
 
 ## References
