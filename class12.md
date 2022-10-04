@@ -22,13 +22,21 @@
 ## Build A REST API With Node.js, Express, & MongoDB - Quick
 
 1. Why do we need to pull our MongoDB database string out of our server and put it into our .env?
+   - When we deploy our application, we want use something that is not are local host, so we need to pull our into an environment variable.
 2. What is middleware?
+   - Code that runs when the server gets the request but before it gets passed to the routes.
 3. What does app.use(express.json()) do?
+   - Lets our server accept JSON as a body instead of a POSTelement or get element.
 4. What does the /:id mean in a route?
+   - It means that it is a parameter that we can access.
 5. What is the difference between PUT and PATCH?
+   - PATCH only updates based on what the user passes us. PUT Would update all the information
 6. How do you make a default value in a schema?
+   - default:
 7. What does a 500 error status code mean?
+   - It means that there's an error on the server.
 8. What is the difference between a status 200 and a status 201?
+   - 200: Everything was succesful, and 201: is more specific
 
 ## Things I want to know more about
 
