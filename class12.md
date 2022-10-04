@@ -38,8 +38,6 @@
 8. What is the difference between a status 200 and a status 201?
    - 200: Everything was succesful, and 201: is more specific
 
-## Things I want to know more about
-
 ## References
 
 - [Status Codes Based On REST Methods](https://www.moesif.com/blog/technical/api-design/Which-HTTP-Status-Code-To-Use-For-Every-CRUD-App/)
