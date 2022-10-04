@@ -22,6 +22,7 @@
 - [Understanding the JavaScript Call Stack, and JS Error Messages](https://maximovincente.github.io/reading-notes/class10)
 - [SQL vs NoSQL](https://maximovincente.github.io/reading-notes/class11)
 - [Status Codes Based On REST Methods, and Build A REST API With Node.js, Express, & MongoDB - Quick](https://maximovincente.github.io/reading-notes/class12)
+- [Crud Basics, and Building a CRUD API](https://maximovincente.github.io/reading-notes/class13)
 
 ## Code 201
 
