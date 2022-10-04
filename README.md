@@ -21,6 +21,7 @@
 - [Functional Programming Conceppts, and Node JS Tuorial for Beginners](https://maximovincente.github.io/reading-notes/class-9)
 - [Understanding the JavaScript Call Stack, and JS Error Messages](https://maximovincente.github.io/reading-notes/class10)
 - [SQL vs NoSQL](https://maximovincente.github.io/reading-notes/class11)
+- [Status Codes Based On REST Methods, and Build A REST API With Node.js, Express, & MongoDB - Quick](https://maximovincente.github.io/reading-notes/class12)
 
 ## Code 201
 
