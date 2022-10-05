@@ -23,6 +23,7 @@
 - [SQL vs NoSQL](https://maximovincente.github.io/reading-notes/class11)
 - [Status Codes Based On REST Methods, and Build A REST API With Node.js, Express, & MongoDB - Quick](https://maximovincente.github.io/reading-notes/class12)
 - [Crud Basics, and Building a CRUD API](https://maximovincente.github.io/reading-notes/class13)
+- [Why diversity matters to your tech company](https://maximovincente.github.io/reading-notes/class14)
 
 ## Code 201
 

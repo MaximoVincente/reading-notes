@@ -10,7 +10,7 @@
 ## Video - Speed Coding Building a CRUD API
 
 1. What’s the relationship between REST and CRUD?
-   - The concept is similar when it comes to request and response. 
+   - The concept is similar when it comes to request and response.
 2. If you had to describe the process of creating a RESTful API in 5 steps, what would they be?
    - We would create our directcory and npm install (npm init -y)
    - Create APP Express
