@@ -11,6 +11,7 @@
 ***Table of Contents:***
 
 - [The Growth Mindset](https://maximovincente.github.io/reading-notes/growth-mindset)
+- [The Terminal](https://maximovincente.github.io/reading-notes/terminal)
 
 ## Code 301 - Intermediate Software Development
 
