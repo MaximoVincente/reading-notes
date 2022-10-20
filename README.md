@@ -6,7 +6,13 @@
 
 ## Reading Notes
 
-## Code 301
+## Code 401 - Advanced Software Development "JAVA"
+
+***Table of Contents:***
+
+
+
+## Code 301 - Intermediate Software Development
 
 ***Table of Contents:***
 
@@ -26,7 +32,7 @@
 - [Why diversity matters to your tech company](https://maximovincente.github.io/reading-notes/class14)
 - [What is OAuth, Authorization and Authentication flows](https://maximovincente.github.io/reading-notes/class15)
 
-## Code 201
+## Code 201 - Foundations of Software Development
 
 ***Table of Contents:***
 
@@ -46,7 +52,7 @@
 - [CSS Transforms, Transitions, Animations](https://maximovincente.github.io/reading-notes/class-14a)
 - [What Google Learned From Its Quest to Build the Perfect Team](https://maximovincente.github.io/reading-notes/class-14b)
 
-## Code 102
+## Code 102 - Intro to Software Development
 
 ***Table of Contents:***
 
