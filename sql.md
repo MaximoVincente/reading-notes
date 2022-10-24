@@ -27,3 +27,4 @@ CREATE TABLE "name of table" (
 ![1](Images/SQL-screenshots/11.jpg)
 ![1](Images/SQL-screenshots/12.jpg)
 ![1](Images/SQL-screenshots/13.jpg)
+![1](Images/SQL-screenshots/14.jpg)
