@@ -1,6 +1,6 @@
 # "Engineering" Reading Notes 📖
 
-***This topic matters because we are preparing for technical interviews, to soon have to be part of one to get hired. Additionally, it is important to develop the key points mentioned in the readings to become a better developer
+***This topic matters because we are preparing for technical interviews, to soon have to be part of one to get hired. Additionally, it is important to develop the key points mentioned in the readings to become a better developer***
 
 1. What’s the one thing I bring to this career (and a potential employer) that nobody else can?
    - My commitment. I am very commited to everything I do, to my family, my team, my work, which leads to growth not only to myself but also to those mentioned.  
