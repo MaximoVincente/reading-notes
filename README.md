@@ -15,6 +15,7 @@
 - [SQL](https://maximovincente.github.io/reading-notes/sql)
 - [Java Basics](https://maximovincente.github.io/reading-notes/401class01)
 - [Engineering Readings](https://maximovincente.github.io/reading-notes/engineering-readings)
+- [Data Structures and Algorithms](https://maximovincente.github.io/reading-notes/ds-and-algorithms)
 
 ## Code 301 - Intermediate Software Development
 
