@@ -14,6 +14,7 @@
 - [The Terminal](https://maximovincente.github.io/reading-notes/terminal)
 - [SQL](https://maximovincente.github.io/reading-notes/sql)
 - [Java Basics](https://maximovincente.github.io/reading-notes/401class01)
+- [Engineering Readings](https://maximovincente.github.io/reading-notes/engineering-readings)
 
 ## Code 301 - Intermediate Software Development
 
