@@ -17,6 +17,7 @@
 - [Engineering Readings](https://maximovincente.github.io/reading-notes/engineering-readings)
 - [Data Structures and Algorithms](https://maximovincente.github.io/reading-notes/ds-and-algorithms)
 - [Java Imports, and Arrays](https://maximovincente.github.io/reading-notes/401class02)
+- [Primitives vs Objects, Exceptions, and Scanning](https://maximovincente.github.io/reading-notes/401class03)
 
 ## Code 301 - Intermediate Software Development
 
