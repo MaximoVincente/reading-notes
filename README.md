@@ -21,6 +21,7 @@
 - [Java Classes, Binary, Decimal, and Hexadecimal Numbers](https://maximovincente.github.io/reading-notes/401class04)
 - [Java OO, Static Keyword, and Singleton Class](https://maximovincente.github.io/reading-notes/401class06)
 - [Questions I still have](https://maximovincente.github.io/reading-notes/401class07)
+- [Dont Repeat Yourself, Rule of Three Articles](https://maximovincente.github.io/reading-notes/401class08)
 
 ## Code 301 - Intermediate Software Development
 
