@@ -2,7 +2,7 @@
 
 ![Army](https://user-images.githubusercontent.com/103771906/182265368-b468a297-35e7-43de-800a-8a25b149c09a.jpg)
 
-***Hello! I currently live in Philadelphia, and active Duty in the US Army working with rockets and missiles. I am on the path to become a Software Engineer. This website will document my reading notes for every class, throughout my Software Development process. This will allow you and myself to reference any subject with ease if needed.***
+***Hello! My name is Maximo, and I am a full stack software developer, transitioning out of active Duty in the US Army working with rockets and missiles. This website will document my reading notes for every lesson learned, throughout my Software Development process. This will allow you and myself to reference any subject with ease if needed.***
 
 ## Reading Notes
 
