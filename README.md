@@ -23,6 +23,7 @@
 - [Questions I still have](https://maximovincente.github.io/reading-notes/401class07)
 - [Dont Repeat Yourself, Rule of Three Articles](https://maximovincente.github.io/reading-notes/401class08)
 - [HTTP Request](https://maximovincente.github.io/reading-notes/401class09)
+- [SpringMVC and Thymeleaf](https://maximovincente.github.io/reading-notes/401class10)
 
 ## Code 301 - Intermediate Software Development
 
