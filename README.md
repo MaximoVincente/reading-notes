@@ -24,8 +24,8 @@
 - [Dont Repeat Yourself, Rule of Three Articles](https://maximovincente.github.io/reading-notes/401class08)
 - [HTTP Request](https://maximovincente.github.io/reading-notes/401class09)
 - [SpringMVC and Thymeleaf](https://maximovincente.github.io/reading-notes/401class10)
-- [JPA and Building Repositories](https://maximovincente.github.io/reading-notes/401class11)
-- [Related Data in Spring, and Integration Testing](https://maximovincente.github.io/reading-notes/401class12)
+- [JPA and Building Repositories](https://maximovincente.github.io/reading-notes/401class12)
+- [Related Data in Spring, and Integration Testing](https://maximovincente.github.io/reading-notes/401class13)
 
 
 ## Code 301 - Intermediate Software Development
