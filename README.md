@@ -26,6 +26,7 @@
 - [SpringMVC and Thymeleaf](https://maximovincente.github.io/reading-notes/401class11)
 - [JPA and Building Repositories](https://maximovincente.github.io/reading-notes/401class12)
 - [Related Data in Spring, and Integration Testing](https://maximovincente.github.io/reading-notes/401class13)
+- [Password hashing bcrypt, and jBCrypt](https://maximovincente.github.io/reading-notes/401class14)
 
 
 ## Code 301 - Intermediate Software Development
