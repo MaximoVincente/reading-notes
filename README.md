@@ -28,6 +28,7 @@
 - [Related Data in Spring, and Integration Testing](https://maximovincente.github.io/reading-notes/401class13)
 - [Password hashing bcrypt, and jBCrypt](https://maximovincente.github.io/reading-notes/401class14)
 - [Spring Security overview, and Spring Auth Cheat Sheet](https://maximovincente.github.io/reading-notes/401class16)
+- [OAuth](https://maximovincente.github.io/reading-notes/401class17)
 
 
 ## Code 301 - Intermediate Software Development
