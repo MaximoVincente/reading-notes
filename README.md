@@ -52,6 +52,7 @@
 - [Crud Basics, and Building a CRUD API](https://maximovincente.github.io/reading-notes/class13)
 - [Why diversity matters to your tech company](https://maximovincente.github.io/reading-notes/class14)
 - [What is OAuth, Authorization and Authentication flows](https://maximovincente.github.io/reading-notes/class15)
+- [Open Source Software Contributions](https://maximovincente.github.io/reading-notes/class43)
 
 ## Code 201 - Foundations of Software Development
 
