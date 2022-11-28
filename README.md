@@ -31,7 +31,7 @@
 - [OAuth](https://maximovincente.github.io/reading-notes/401class17)
 - [Many to many relationships](https://maximovincente.github.io/reading-notes/401class18)
 - [Purely Functional Programming](https://maximovincente.github.io/reading-notes/401class19)
-- - [Open Source Software Contributions](https://maximovincente.github.io/reading-notes/401class43)
+- [Open Source Software Contributions](https://maximovincente.github.io/reading-notes/401class43)
 
 
 ## Code 301 - Intermediate Software Development
