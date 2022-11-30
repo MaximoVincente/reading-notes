@@ -33,6 +33,7 @@
 - [Purely Functional Programming](https://maximovincente.github.io/reading-notes/401class19)
 - [Open Source Software Contributions](https://maximovincente.github.io/reading-notes/401class43)
 - [Android Fundamentals](https://maximovincente.github.io/reading-notes/401class26)
+- [Android Shared Preferences, Testing, and Back Stack](https://maximovincente.github.io/reading-notes/401class27)
 
 
 ## Code 301 - Intermediate Software Development
