@@ -34,6 +34,7 @@
 - [Open Source Software Contributions](https://maximovincente.github.io/reading-notes/401class43)
 - [Android Fundamentals](https://maximovincente.github.io/reading-notes/401class26)
 - [Android Shared Preferences, Testing, and Back Stack](https://maximovincente.github.io/reading-notes/401class27)
+- [RecyclerView for displaying lists of data](https://maximovincente.github.io/reading-notes/401class28)
 
 
 ## Code 301 - Intermediate Software Development
