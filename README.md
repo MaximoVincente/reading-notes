@@ -35,6 +35,7 @@
 - [Android Fundamentals](https://maximovincente.github.io/reading-notes/401class26)
 - [Android Shared Preferences, Testing, and Back Stack](https://maximovincente.github.io/reading-notes/401class27)
 - [RecyclerView for displaying lists of data](https://maximovincente.github.io/reading-notes/401class28)
+- [Room in Android Studio](https://maximovincente.github.io/reading-notes/401class29)
 
 
 ## Code 301 - Intermediate Software Development
