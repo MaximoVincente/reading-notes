@@ -36,6 +36,7 @@
 - [Android Shared Preferences, Testing, and Back Stack](https://maximovincente.github.io/reading-notes/401class27)
 - [RecyclerView for displaying lists of data](https://maximovincente.github.io/reading-notes/401class28)
 - [Room in Android Studio](https://maximovincente.github.io/reading-notes/401class29)
+- [AWS Amplify](https://maximovincente.github.io/reading-notes/401class31)
 
 
 ## Code 301 - Intermediate Software Development
