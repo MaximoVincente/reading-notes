@@ -37,6 +37,7 @@
 - [RecyclerView for displaying lists of data](https://maximovincente.github.io/reading-notes/401class28)
 - [Room in Android Studio](https://maximovincente.github.io/reading-notes/401class29)
 - [AWS Amplify](https://maximovincente.github.io/reading-notes/401class31)
+- [AWS Amplify, Serverless, and GraphQL](https://maximovincente.github.io/reading-notes/401class32)
 
 
 ## Code 301 - Intermediate Software Development
