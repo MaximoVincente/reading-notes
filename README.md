@@ -39,6 +39,7 @@
 - [AWS Amplify](https://maximovincente.github.io/reading-notes/401class31)
 - [AWS Amplify, Serverless, and GraphQL](https://maximovincente.github.io/reading-notes/401class32)
 - [AWS Amplify One-to-Many and Many-to-One Connections](https://maximovincente.github.io/reading-notes/401class33)
+- [Google’s app publishing guide](https://maximovincente.github.io/reading-notes/401class34)
 
 
 ## Code 301 - Intermediate Software Development
