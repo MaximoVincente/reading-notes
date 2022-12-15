@@ -41,6 +41,7 @@
 - [AWS Amplify One-to-Many and Many-to-One Connections](https://maximovincente.github.io/reading-notes/401class33)
 - [Google’s app publishing guide](https://maximovincente.github.io/reading-notes/401class34)
 - [Amplify and Cognito](https://maximovincente.github.io/reading-notes/401class36)
+- [Introduction To Amazon S3](https://maximovincente.github.io/reading-notes/401class37)
 
 
 ## Code 301 - Intermediate Software Development
