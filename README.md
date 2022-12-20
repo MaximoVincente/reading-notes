@@ -43,6 +43,7 @@
 - [Amplify and Cognito](https://maximovincente.github.io/reading-notes/401class36)
 - [Introduction To Amazon S3](https://maximovincente.github.io/reading-notes/401class37)
 - [Android Studio Location](https://maximovincente.github.io/reading-notes/401class39)
+- [AWS PinPoint and Polly](https://maximovincente.github.io/reading-notes/401class41)
 
 
 ## Code 301 - Intermediate Software Development
