@@ -45,6 +45,7 @@
 - [Android Studio Location](https://maximovincente.github.io/reading-notes/401class39)
 - [AWS PinPoint and Polly](https://maximovincente.github.io/reading-notes/401class41)
 - [Google AdMob and Monetization](https://maximovincente.github.io/reading-notes/401class42)
+- [Ethics in Tech](https://maximovincente.github.io/reading-notes/ethics-in-tech)
 
 ## Code 301 - Intermediate Software Development
 
